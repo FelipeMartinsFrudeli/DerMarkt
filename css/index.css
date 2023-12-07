@@ -3,7 +3,7 @@
     --font-family: 'Montserrat', sans-serif;
     
     --clr-accent: hsla(42, 100%, 61%, 1);
-    --clr-primary: hsla(0, 0%, 15%, 1);
+    --clr-primary: hsl(0, 0%, 15%);
     --clr-secondary: hsla(214, 80%, 23%, 1);
     --clr-secondary-light: hsla(203, 99%, 37%, 1);
 }
